@@ -22,9 +22,9 @@ The Smart Plant Watering Kit helps you automate plant care using sensors, a wate
 <img width="1908" height="1121" alt="Screenshot 2025-07-18 002824" src="https://github.com/user-attachments/assets/be62b2c0-282e-4d70-b782-c6fea214380e" />
 
 ### Improvements to be done in this version:
-1 - moisture sensor mount to be improved and make it more strengthful
-2- 10 mm pillow below thw moisture sensor
-3- hole in the LED channel of the pot
-4- TechKnowLab embossing font is too small - increase font or remove it.
-5- bolt hole in the uController box.
-6- DHT11 Sensor mount has to be improved
+1. moisture sensor mount to be improved and make it more strengthful
+2. 10 mm pillow below thw moisture sensor
+3. hole in the LED channel of the pot
+4. TechKnowLab embossing font is too small - increase font or remove it.
+5. bolt hole in the uController box.
+6. DHT11 Sensor mount has to be improved

@@ -28,3 +28,4 @@ The Smart Plant Watering Kit helps you automate plant care using sensors, a wate
 4. TechKnowLab embossing font is too small - increase font or remove it.
 5. bolt hole in the uController box.
 6. DHT11 Sensor mount has to be improved
+7. LDR sensor mounts has to be added 
